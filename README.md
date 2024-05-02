@@ -2,8 +2,4 @@
 
 Web ブラウザ「Arc」のインストール方法
 
-<div>
-  <video controls src="./video/opening_arc.mp4" muted="false">
-    aaaa
-  </video>
-</div>
+[Arc - 初回起動](https://github.com/hsmt72k/install_arc/assets/115420934/e84ea3d0-2d48-4600-8eaa-5d7c32a40f85)
